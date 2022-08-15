@@ -1,0 +1,40 @@
+	html {font-size: 15px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+  font-family: 'Roboto', sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+	background-color: #0D7ADF;}
+
+h1 {
+  margin: 0;
+  padding: 0px 0;
+  color: #FF0000;
+  text-shadow: 3px 3px 1px black;
+  font-size: 60px;
+  text-align: center;
+}
+h2 {
+margin: 0;
+padding: 0px o;
+color: #FF0000;
+font-size: 20px;
+font-style: italic;
+text-align: center;
+}
+
+p, li {
+  font-size: 15px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
